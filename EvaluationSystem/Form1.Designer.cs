@@ -46,6 +46,7 @@
             // 
             // toolStrip1
             // 
+            this.toolStrip1.BackColor = System.Drawing.Color.Transparent;
             this.toolStrip1.Dock = System.Windows.Forms.DockStyle.Left;
             this.toolStrip1.ImageScalingSize = new System.Drawing.Size(70, 70);
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
