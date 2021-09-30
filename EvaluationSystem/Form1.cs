@@ -37,7 +37,6 @@ namespace EvaluationSystem
             tsSubject.Enabled = false;
             tsUsers.Enabled = false;
             tsFindstudent.Enabled = false;
-            label1.Visible = true;
             tsLogin.Image = Properties.Resources._lock;
         }
 
@@ -65,21 +64,21 @@ namespace EvaluationSystem
 
         private void tsStudents_Click(object sender, EventArgs e)
         {
-            label1.Visible = false;
+            
             closefrm();
             showfrm(new frmStudent());
         }
 
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
-            label1.Visible = false;
+            
             closefrm();
             showfrm(new frmGrades());
         }
 
         private void toolStripButton4_Click(object sender, EventArgs e)
         {
-            label1.Visible = false;
+            
             closefrm();
             frmCourse course = new frmCourse();
             course.StartPosition = FormStartPosition.CenterScreen;
@@ -89,14 +88,14 @@ namespace EvaluationSystem
 
         private void toolStripButton3_Click(object sender, EventArgs e)
         {
-            label1.Visible = false;
+            
             closefrm();
             showfrm(new frmSubjects());
         }
 
         private void toolStripButton5_Click(object sender, EventArgs e)
         {
-            label1.Visible = false;
+            
             closefrm();
             showfrm(new frmUsers());
 
@@ -106,7 +105,7 @@ namespace EvaluationSystem
 
         private void toolStripButton9_Click(object sender, EventArgs e)
         {
-            label1.Visible = false;
+            
             closefrm();
             showfrm(new frmFinstudents());
         }
@@ -124,9 +123,6 @@ namespace EvaluationSystem
             }
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            label2.Text = DateTime.Now.ToString("hh:mm:ss");
-        }
+       
     }
 }
