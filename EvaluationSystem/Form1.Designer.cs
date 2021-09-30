@@ -157,7 +157,7 @@
             // 
             this.tsLogin.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tsLogin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.tsLogin.Image = global::EvaluationSystem.Properties.Resources._lock;
+            this.tsLogin.Image = ((System.Drawing.Image)(resources.GetObject("tsLogin.Image")));
             this.tsLogin.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tsLogin.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsLogin.Name = "tsLogin";
