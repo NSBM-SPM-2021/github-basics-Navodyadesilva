@@ -61,7 +61,7 @@
             this.tsLogin});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(86, 749);
+            this.toolStrip1.Size = new System.Drawing.Size(99, 749);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -71,53 +71,61 @@
             this.tsStudents.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsStudents.Image = ((System.Drawing.Image)(resources.GetObject("tsStudents.Image")));
             this.tsStudents.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsStudents.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
+            this.tsStudents.Margin = new System.Windows.Forms.Padding(0);
             this.tsStudents.Name = "tsStudents";
-            this.tsStudents.Size = new System.Drawing.Size(83, 91);
+            this.tsStudents.Size = new System.Drawing.Size(96, 91);
             this.tsStudents.Text = "Student";
             this.tsStudents.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsStudents.Click += new System.EventHandler(this.tsStudents_Click);
             // 
             // tsGrades
             // 
+            this.tsGrades.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tsGrades.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsGrades.Image = ((System.Drawing.Image)(resources.GetObject("tsGrades.Image")));
             this.tsGrades.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsGrades.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
+            this.tsGrades.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsGrades.Name = "tsGrades";
-            this.tsGrades.Size = new System.Drawing.Size(83, 89);
+            this.tsGrades.Size = new System.Drawing.Size(96, 91);
             this.tsGrades.Text = "Grades";
             this.tsGrades.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsGrades.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // tsSubject
             // 
+            this.tsSubject.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tsSubject.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsSubject.Image = ((System.Drawing.Image)(resources.GetObject("tsSubject.Image")));
             this.tsSubject.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsSubject.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
+            this.tsSubject.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsSubject.Name = "tsSubject";
-            this.tsSubject.Size = new System.Drawing.Size(83, 89);
+            this.tsSubject.Size = new System.Drawing.Size(96, 91);
             this.tsSubject.Text = "Curriculumn";
             this.tsSubject.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsSubject.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // tsCourses
             // 
+            this.tsCourses.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tsCourses.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsCourses.Image = ((System.Drawing.Image)(resources.GetObject("tsCourses.Image")));
             this.tsCourses.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsCourses.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
+            this.tsCourses.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsCourses.Name = "tsCourses";
-            this.tsCourses.Size = new System.Drawing.Size(83, 89);
+            this.tsCourses.Size = new System.Drawing.Size(96, 91);
             this.tsCourses.Text = "Courses";
             this.tsCourses.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsCourses.Click += new System.EventHandler(this.toolStripButton4_Click);
             // 
             // tsUsers
             // 
+            this.tsUsers.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tsUsers.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsUsers.Image = ((System.Drawing.Image)(resources.GetObject("tsUsers.Image")));
             this.tsUsers.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsUsers.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
+            this.tsUsers.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsUsers.Name = "tsUsers";
-            this.tsUsers.Size = new System.Drawing.Size(83, 89);
+            this.tsUsers.Size = new System.Drawing.Size(96, 91);
             this.tsUsers.Text = "Manage Users";
             this.tsUsers.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsUsers.Click += new System.EventHandler(this.toolStripButton5_Click);
@@ -125,15 +133,17 @@
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(83, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(96, 6);
             // 
             // tsFindstudent
             // 
+            this.tsFindstudent.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tsFindstudent.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsFindstudent.Image = ((System.Drawing.Image)(resources.GetObject("tsFindstudent.Image")));
             this.tsFindstudent.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsFindstudent.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
+            this.tsFindstudent.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsFindstudent.Name = "tsFindstudent";
-            this.tsFindstudent.Size = new System.Drawing.Size(83, 89);
+            this.tsFindstudent.Size = new System.Drawing.Size(96, 91);
             this.tsFindstudent.Text = "Find Students";
             this.tsFindstudent.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsFindstudent.Click += new System.EventHandler(this.toolStripButton9_Click);
@@ -141,16 +151,18 @@
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(83, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(96, 6);
             // 
             // tsLogin
             // 
+            this.tsLogin.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tsLogin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.tsLogin.Image = global::EvaluationSystem.Properties.Resources._lock;
             this.tsLogin.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsLogin.Margin = new System.Windows.Forms.Padding(0);
+            this.tsLogin.Margin = new System.Windows.Forms.Padding(0, 5, 0, 0);
             this.tsLogin.Name = "tsLogin";
-            this.tsLogin.Padding = new System.Windows.Forms.Padding(0, 12, 0, 0);
-            this.tsLogin.Size = new System.Drawing.Size(83, 101);
+            this.tsLogin.Padding = new System.Windows.Forms.Padding(0, 8, 0, 0);
+            this.tsLogin.Size = new System.Drawing.Size(96, 99);
             this.tsLogin.Text = "Login";
             this.tsLogin.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.tsLogin.Click += new System.EventHandler(this.tsLogin_Click);
