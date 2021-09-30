@@ -37,7 +37,7 @@ namespace EvaluationSystem
             tsSubject.Enabled = false;
             tsUsers.Enabled = false;
             tsFindstudent.Enabled = false;
-            tsLogin.Image = Properties.Resources._lock;
+            
         }
 
 
