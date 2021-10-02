@@ -42,7 +42,7 @@
             // Cancel
             // 
             this.Cancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.Cancel.Location = new System.Drawing.Point(338, 408);
+            this.Cancel.Location = new System.Drawing.Point(376, 408);
             this.Cancel.Name = "Cancel";
             this.Cancel.Size = new System.Drawing.Size(94, 37);
             this.Cancel.TabIndex = 12;
@@ -50,7 +50,7 @@
             // 
             // OK
             // 
-            this.OK.Location = new System.Drawing.Point(129, 408);
+            this.OK.Location = new System.Drawing.Point(220, 408);
             this.OK.Name = "OK";
             this.OK.Size = new System.Drawing.Size(94, 37);
             this.OK.TabIndex = 11;
