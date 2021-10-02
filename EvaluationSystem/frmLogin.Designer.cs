@@ -42,7 +42,7 @@
             // Cancel
             // 
             this.Cancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.Cancel.Location = new System.Drawing.Point(114, 122);
+            this.Cancel.Location = new System.Drawing.Point(118, 189);
             this.Cancel.Name = "Cancel";
             this.Cancel.Size = new System.Drawing.Size(94, 37);
             this.Cancel.TabIndex = 12;
@@ -50,7 +50,7 @@
             // 
             // OK
             // 
-            this.OK.Location = new System.Drawing.Point(11, 122);
+            this.OK.Location = new System.Drawing.Point(12, 189);
             this.OK.Name = "OK";
             this.OK.Size = new System.Drawing.Size(94, 37);
             this.OK.TabIndex = 11;
@@ -97,7 +97,7 @@
             // LogoPictureBox
             // 
             this.LogoPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("LogoPictureBox.Image")));
-            this.LogoPictureBox.Location = new System.Drawing.Point(251, 9);
+            this.LogoPictureBox.Location = new System.Drawing.Point(379, 12);
             this.LogoPictureBox.Name = "LogoPictureBox";
             this.LogoPictureBox.Size = new System.Drawing.Size(165, 193);
             this.LogoPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -108,7 +108,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(590, 262);
+            this.ClientSize = new System.Drawing.Size(590, 288);
             this.Controls.Add(this.Cancel);
             this.Controls.Add(this.OK);
             this.Controls.Add(this.PasswordTextBox);
