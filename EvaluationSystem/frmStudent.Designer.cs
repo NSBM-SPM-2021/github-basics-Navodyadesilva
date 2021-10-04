@@ -55,7 +55,6 @@
             this.Label9 = new System.Windows.Forms.Label();
             this.btn_edit = new System.Windows.Forms.Button();
             this.PictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnDisable = new System.Windows.Forms.Button();
             this.OpenFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.dtg_ABorrowLists)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
@@ -90,7 +89,7 @@
             // 
             this.btnClose.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnClose.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.Location = new System.Drawing.Point(807, 206);
+            this.btnClose.Location = new System.Drawing.Point(902, 214);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(68, 36);
             this.btnClose.TabIndex = 121;
@@ -126,7 +125,7 @@
             // 
             this.btn_New.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_New.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_New.Location = new System.Drawing.Point(733, 207);
+            this.btn_New.Location = new System.Drawing.Point(809, 216);
             this.btn_New.Name = "btn_New";
             this.btn_New.Size = new System.Drawing.Size(68, 36);
             this.btn_New.TabIndex = 116;
@@ -149,7 +148,7 @@
             // 
             this.btn_delete.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_delete.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_delete.Location = new System.Drawing.Point(659, 206);
+            this.btn_delete.Location = new System.Drawing.Point(674, 206);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(68, 36);
             this.btn_delete.TabIndex = 115;
@@ -377,16 +376,6 @@
             this.PictureBox1.TabStop = false;
             this.PictureBox1.Click += new System.EventHandler(this.PictureBox1_Click);
             // 
-            // btnDisable
-            // 
-            this.btnDisable.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnDisable.Location = new System.Drawing.Point(659, 207);
-            this.btnDisable.Name = "btnDisable";
-            this.btnDisable.Size = new System.Drawing.Size(68, 36);
-            this.btnDisable.TabIndex = 124;
-            this.btnDisable.Text = "Disable";
-            this.btnDisable.UseVisualStyleBackColor = true;
-            // 
             // OpenFileDialog1
             // 
             this.OpenFileDialog1.FileName = "OpenFileDialog1";
@@ -423,7 +412,6 @@
             this.Controls.Add(this.Label9);
             this.Controls.Add(this.btn_edit);
             this.Controls.Add(this.PictureBox1);
-            this.Controls.Add(this.btnDisable);
             this.Name = "frmStudent";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Student Form";
@@ -464,7 +452,6 @@
         internal System.Windows.Forms.Label Label9;
         internal System.Windows.Forms.Button btn_edit;
         internal System.Windows.Forms.PictureBox PictureBox1;
-        internal System.Windows.Forms.Button btnDisable;
         internal System.Windows.Forms.OpenFileDialog OpenFileDialog1;
     }
 }
