@@ -100,7 +100,7 @@
             // 
             this.btn_last.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_last.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_last.Location = new System.Drawing.Point(963, 229);
+            this.btn_last.Location = new System.Drawing.Point(946, 229);
             this.btn_last.Name = "btn_last";
             this.btn_last.Size = new System.Drawing.Size(51, 24);
             this.btn_last.TabIndex = 119;
@@ -112,7 +112,7 @@
             // 
             this.btn_next.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_next.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_next.Location = new System.Drawing.Point(889, 229);
+            this.btn_next.Location = new System.Drawing.Point(872, 229);
             this.btn_next.Name = "btn_next";
             this.btn_next.Size = new System.Drawing.Size(51, 24);
             this.btn_next.TabIndex = 118;
@@ -135,7 +135,7 @@
             // 
             this.btn_first.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_first.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_first.Location = new System.Drawing.Point(741, 229);
+            this.btn_first.Location = new System.Drawing.Point(726, 229);
             this.btn_first.Name = "btn_first";
             this.btn_first.Size = new System.Drawing.Size(51, 24);
             this.btn_first.TabIndex = 120;
@@ -171,7 +171,7 @@
             // 
             this.btn_prev.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_prev.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_prev.Location = new System.Drawing.Point(815, 229);
+            this.btn_prev.Location = new System.Drawing.Point(798, 229);
             this.btn_prev.Name = "btn_prev";
             this.btn_prev.Size = new System.Drawing.Size(51, 24);
             this.btn_prev.TabIndex = 117;
