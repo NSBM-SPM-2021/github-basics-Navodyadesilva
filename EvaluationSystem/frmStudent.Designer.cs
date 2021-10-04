@@ -53,7 +53,6 @@
             this.Label4 = new System.Windows.Forms.Label();
             this.Label5 = new System.Windows.Forms.Label();
             this.Label9 = new System.Windows.Forms.Label();
-            this.btn_edit = new System.Windows.Forms.Button();
             this.PictureBox1 = new System.Windows.Forms.PictureBox();
             this.OpenFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.dtg_ABorrowLists)).BeginInit();
@@ -89,7 +88,7 @@
             // 
             this.btnClose.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnClose.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.Location = new System.Drawing.Point(902, 214);
+            this.btnClose.Location = new System.Drawing.Point(902, 187);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(68, 36);
             this.btnClose.TabIndex = 121;
@@ -101,7 +100,7 @@
             // 
             this.btn_last.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_last.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_last.Location = new System.Drawing.Point(788, 248);
+            this.btn_last.Location = new System.Drawing.Point(869, 248);
             this.btn_last.Name = "btn_last";
             this.btn_last.Size = new System.Drawing.Size(51, 24);
             this.btn_last.TabIndex = 119;
@@ -125,7 +124,7 @@
             // 
             this.btn_New.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_New.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_New.Location = new System.Drawing.Point(809, 216);
+            this.btn_New.Location = new System.Drawing.Point(828, 187);
             this.btn_New.Name = "btn_New";
             this.btn_New.Size = new System.Drawing.Size(68, 36);
             this.btn_New.TabIndex = 116;
@@ -148,7 +147,7 @@
             // 
             this.btn_delete.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_delete.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_delete.Location = new System.Drawing.Point(674, 206);
+            this.btn_delete.Location = new System.Drawing.Point(754, 187);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(68, 36);
             this.btn_delete.TabIndex = 115;
@@ -160,7 +159,7 @@
             // 
             this.btn_save.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_save.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_save.Location = new System.Drawing.Point(590, 206);
+            this.btn_save.Location = new System.Drawing.Point(674, 187);
             this.btn_save.Name = "btn_save";
             this.btn_save.Size = new System.Drawing.Size(66, 36);
             this.btn_save.TabIndex = 113;
@@ -351,24 +350,12 @@
             this.Label9.TabIndex = 101;
             this.Label9.Text = "Sex :";
             // 
-            // btn_edit
-            // 
-            this.btn_edit.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btn_edit.Enabled = false;
-            this.btn_edit.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_edit.Location = new System.Drawing.Point(589, 206);
-            this.btn_edit.Name = "btn_edit";
-            this.btn_edit.Size = new System.Drawing.Size(64, 36);
-            this.btn_edit.TabIndex = 114;
-            this.btn_edit.Text = "Update";
-            this.btn_edit.UseVisualStyleBackColor = true;
-            // 
             // PictureBox1
             // 
             this.PictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.PictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.PictureBox1.Location = new System.Drawing.Point(650, 31);
+            this.PictureBox1.Location = new System.Drawing.Point(714, 12);
             this.PictureBox1.Name = "PictureBox1";
             this.PictureBox1.Size = new System.Drawing.Size(256, 169);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -410,7 +397,6 @@
             this.Controls.Add(this.Label4);
             this.Controls.Add(this.Label5);
             this.Controls.Add(this.Label9);
-            this.Controls.Add(this.btn_edit);
             this.Controls.Add(this.PictureBox1);
             this.Name = "frmStudent";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -450,7 +436,6 @@
         internal System.Windows.Forms.Label Label4;
         internal System.Windows.Forms.Label Label5;
         internal System.Windows.Forms.Label Label9;
-        internal System.Windows.Forms.Button btn_edit;
         internal System.Windows.Forms.PictureBox PictureBox1;
         internal System.Windows.Forms.OpenFileDialog OpenFileDialog1;
     }
