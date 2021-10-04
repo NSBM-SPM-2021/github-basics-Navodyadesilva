@@ -355,7 +355,7 @@
             this.PictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.PictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.PictureBox1.Location = new System.Drawing.Point(744, 12);
+            this.PictureBox1.Location = new System.Drawing.Point(741, 12);
             this.PictureBox1.Name = "PictureBox1";
             this.PictureBox1.Size = new System.Drawing.Size(256, 169);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
