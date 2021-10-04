@@ -88,7 +88,7 @@
             // 
             this.btnClose.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnClose.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.Location = new System.Drawing.Point(902, 187);
+            this.btnClose.Location = new System.Drawing.Point(946, 187);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(68, 36);
             this.btnClose.TabIndex = 121;
@@ -100,7 +100,7 @@
             // 
             this.btn_last.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_last.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_last.Location = new System.Drawing.Point(869, 248);
+            this.btn_last.Location = new System.Drawing.Point(963, 229);
             this.btn_last.Name = "btn_last";
             this.btn_last.Size = new System.Drawing.Size(51, 24);
             this.btn_last.TabIndex = 119;
@@ -112,7 +112,7 @@
             // 
             this.btn_next.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_next.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_next.Location = new System.Drawing.Point(731, 248);
+            this.btn_next.Location = new System.Drawing.Point(889, 229);
             this.btn_next.Name = "btn_next";
             this.btn_next.Size = new System.Drawing.Size(51, 24);
             this.btn_next.TabIndex = 118;
@@ -124,7 +124,7 @@
             // 
             this.btn_New.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_New.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_New.Location = new System.Drawing.Point(828, 187);
+            this.btn_New.Location = new System.Drawing.Point(872, 187);
             this.btn_New.Name = "btn_New";
             this.btn_New.Size = new System.Drawing.Size(68, 36);
             this.btn_New.TabIndex = 116;
@@ -135,7 +135,7 @@
             // 
             this.btn_first.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_first.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_first.Location = new System.Drawing.Point(617, 248);
+            this.btn_first.Location = new System.Drawing.Point(741, 229);
             this.btn_first.Name = "btn_first";
             this.btn_first.Size = new System.Drawing.Size(51, 24);
             this.btn_first.TabIndex = 120;
@@ -147,7 +147,7 @@
             // 
             this.btn_delete.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_delete.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_delete.Location = new System.Drawing.Point(754, 187);
+            this.btn_delete.Location = new System.Drawing.Point(798, 187);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(68, 36);
             this.btn_delete.TabIndex = 115;
@@ -159,7 +159,7 @@
             // 
             this.btn_save.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_save.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_save.Location = new System.Drawing.Point(674, 187);
+            this.btn_save.Location = new System.Drawing.Point(726, 187);
             this.btn_save.Name = "btn_save";
             this.btn_save.Size = new System.Drawing.Size(66, 36);
             this.btn_save.TabIndex = 113;
@@ -171,7 +171,7 @@
             // 
             this.btn_prev.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btn_prev.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_prev.Location = new System.Drawing.Point(674, 248);
+            this.btn_prev.Location = new System.Drawing.Point(815, 229);
             this.btn_prev.Name = "btn_prev";
             this.btn_prev.Size = new System.Drawing.Size(51, 24);
             this.btn_prev.TabIndex = 117;
@@ -355,7 +355,7 @@
             this.PictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.PictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.PictureBox1.Location = new System.Drawing.Point(714, 12);
+            this.PictureBox1.Location = new System.Drawing.Point(744, 12);
             this.PictureBox1.Name = "PictureBox1";
             this.PictureBox1.Size = new System.Drawing.Size(256, 169);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
