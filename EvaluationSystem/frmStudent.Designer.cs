@@ -257,7 +257,7 @@
             this.Label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label1.AutoSize = true;
             this.Label1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label1.Location = new System.Drawing.Point(195, 34);
+            this.Label1.Location = new System.Drawing.Point(262, 39);
             this.Label1.Name = "Label1";
             this.Label1.Size = new System.Drawing.Size(74, 17);
             this.Label1.TabIndex = 103;
@@ -277,7 +277,7 @@
             this.Label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label2.AutoSize = true;
             this.Label2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label2.Location = new System.Drawing.Point(199, 67);
+            this.Label2.Location = new System.Drawing.Point(258, 71);
             this.Label2.Name = "Label2";
             this.Label2.Size = new System.Drawing.Size(78, 17);
             this.Label2.TabIndex = 106;
@@ -298,7 +298,7 @@
             this.Label3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label3.AutoSize = true;
             this.Label3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label3.Location = new System.Drawing.Point(198, 97);
+            this.Label3.Location = new System.Drawing.Point(259, 102);
             this.Label3.Name = "Label3";
             this.Label3.Size = new System.Drawing.Size(77, 17);
             this.Label3.TabIndex = 104;
@@ -322,7 +322,7 @@
             this.Label4.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label4.AutoSize = true;
             this.Label4.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label4.Location = new System.Drawing.Point(239, 125);
+            this.Label4.Location = new System.Drawing.Point(306, 130);
             this.Label4.Name = "Label4";
             this.Label4.Size = new System.Drawing.Size(30, 17);
             this.Label4.TabIndex = 105;
@@ -333,7 +333,7 @@
             this.Label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label5.AutoSize = true;
             this.Label5.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label5.Location = new System.Drawing.Point(210, 153);
+            this.Label5.Location = new System.Drawing.Point(273, 173);
             this.Label5.Name = "Label5";
             this.Label5.Size = new System.Drawing.Size(63, 17);
             this.Label5.TabIndex = 107;
