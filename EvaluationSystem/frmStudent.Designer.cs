@@ -68,9 +68,9 @@
             "Second",
             "Third",
             "Fourth"});
-            this.cboYearLevel.Location = new System.Drawing.Point(449, 241);
+            this.cboYearLevel.Location = new System.Drawing.Point(516, 245);
             this.cboYearLevel.Name = "cboYearLevel";
-            this.cboYearLevel.Size = new System.Drawing.Size(100, 21);
+            this.cboYearLevel.Size = new System.Drawing.Size(114, 21);
             this.cboYearLevel.TabIndex = 126;
             this.cboYearLevel.Text = "Select";
             // 
@@ -78,9 +78,9 @@
             // 
             this.cboCourse.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.cboCourse.FormattingEnabled = true;
-            this.cboCourse.Location = new System.Drawing.Point(283, 241);
+            this.cboCourse.Location = new System.Drawing.Point(352, 245);
             this.cboCourse.Name = "cboCourse";
-            this.cboCourse.Size = new System.Drawing.Size(160, 21);
+            this.cboCourse.Size = new System.Drawing.Size(124, 21);
             this.cboCourse.TabIndex = 125;
             this.cboCourse.Text = "Select";
             // 
@@ -184,7 +184,7 @@
             this.Label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label6.AutoSize = true;
             this.Label6.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label6.Location = new System.Drawing.Point(190, 245);
+            this.Label6.Location = new System.Drawing.Point(250, 245);
             this.Label6.Name = "Label6";
             this.Label6.Size = new System.Drawing.Size(86, 17);
             this.Label6.TabIndex = 112;
@@ -235,7 +235,7 @@
             this.rdio_female.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.rdio_female.AutoSize = true;
             this.rdio_female.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdio_female.Location = new System.Drawing.Point(352, 214);
+            this.rdio_female.Location = new System.Drawing.Point(530, 216);
             this.rdio_female.Name = "rdio_female";
             this.rdio_female.Size = new System.Drawing.Size(67, 21);
             this.rdio_female.TabIndex = 109;
@@ -309,7 +309,7 @@
             this.rdio_male.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.rdio_male.AutoSize = true;
             this.rdio_male.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdio_male.Location = new System.Drawing.Point(290, 214);
+            this.rdio_male.Location = new System.Drawing.Point(394, 216);
             this.rdio_male.Name = "rdio_male";
             this.rdio_male.Size = new System.Drawing.Size(55, 21);
             this.rdio_male.TabIndex = 108;
@@ -344,7 +344,7 @@
             this.Label9.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.Label9.AutoSize = true;
             this.Label9.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label9.Location = new System.Drawing.Point(247, 216);
+            this.Label9.Location = new System.Drawing.Point(301, 216);
             this.Label9.Name = "Label9";
             this.Label9.Size = new System.Drawing.Size(35, 17);
             this.Label9.TabIndex = 101;
