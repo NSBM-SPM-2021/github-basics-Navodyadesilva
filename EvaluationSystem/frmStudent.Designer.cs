@@ -55,7 +55,6 @@
             this.Label9 = new System.Windows.Forms.Label();
             this.btn_edit = new System.Windows.Forms.Button();
             this.PictureBox1 = new System.Windows.Forms.PictureBox();
-            this.txtPhoto = new System.Windows.Forms.TextBox();
             this.btnDisable = new System.Windows.Forms.Button();
             this.OpenFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.dtg_ABorrowLists)).BeginInit();
@@ -370,21 +369,13 @@
             this.PictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.PictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.PictureBox1.Location = new System.Drawing.Point(604, 31);
+            this.PictureBox1.Location = new System.Drawing.Point(650, 31);
             this.PictureBox1.Name = "PictureBox1";
             this.PictureBox1.Size = new System.Drawing.Size(256, 169);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.PictureBox1.TabIndex = 110;
             this.PictureBox1.TabStop = false;
             this.PictureBox1.Click += new System.EventHandler(this.PictureBox1_Click);
-            // 
-            // txtPhoto
-            // 
-            this.txtPhoto.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtPhoto.Location = new System.Drawing.Point(604, 69);
-            this.txtPhoto.Name = "txtPhoto";
-            this.txtPhoto.Size = new System.Drawing.Size(209, 20);
-            this.txtPhoto.TabIndex = 122;
             // 
             // btnDisable
             // 
@@ -432,7 +423,6 @@
             this.Controls.Add(this.Label9);
             this.Controls.Add(this.btn_edit);
             this.Controls.Add(this.PictureBox1);
-            this.Controls.Add(this.txtPhoto);
             this.Controls.Add(this.btnDisable);
             this.Name = "frmStudent";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -474,7 +464,6 @@
         internal System.Windows.Forms.Label Label9;
         internal System.Windows.Forms.Button btn_edit;
         internal System.Windows.Forms.PictureBox PictureBox1;
-        internal System.Windows.Forms.TextBox txtPhoto;
         internal System.Windows.Forms.Button btnDisable;
         internal System.Windows.Forms.OpenFileDialog OpenFileDialog1;
     }
