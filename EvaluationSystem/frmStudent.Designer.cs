@@ -215,7 +215,7 @@
             // 
             this.txt_sid.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.txt_sid.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_sid.Location = new System.Drawing.Point(283, 31);
+            this.txt_sid.Location = new System.Drawing.Point(352, 31);
             this.txt_sid.Name = "txt_sid";
             this.txt_sid.Size = new System.Drawing.Size(278, 25);
             this.txt_sid.TabIndex = 97;
@@ -225,7 +225,7 @@
             // 
             this.txt_fname.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.txt_fname.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_fname.Location = new System.Drawing.Point(283, 64);
+            this.txt_fname.Location = new System.Drawing.Point(352, 63);
             this.txt_fname.Name = "txt_fname";
             this.txt_fname.Size = new System.Drawing.Size(278, 25);
             this.txt_fname.TabIndex = 98;
@@ -247,7 +247,7 @@
             // 
             this.txt_mname.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.txt_mname.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_mname.Location = new System.Drawing.Point(283, 122);
+            this.txt_mname.Location = new System.Drawing.Point(352, 122);
             this.txt_mname.Name = "txt_mname";
             this.txt_mname.Size = new System.Drawing.Size(278, 25);
             this.txt_mname.TabIndex = 100;
@@ -267,7 +267,7 @@
             // 
             this.txt_lname.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.txt_lname.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_lname.Location = new System.Drawing.Point(283, 94);
+            this.txt_lname.Location = new System.Drawing.Point(352, 94);
             this.txt_lname.Name = "txt_lname";
             this.txt_lname.Size = new System.Drawing.Size(278, 25);
             this.txt_lname.TabIndex = 99;
@@ -287,7 +287,7 @@
             // 
             this.rch_address.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.rch_address.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rch_address.Location = new System.Drawing.Point(283, 150);
+            this.rch_address.Location = new System.Drawing.Point(352, 150);
             this.rch_address.Name = "rch_address";
             this.rch_address.Size = new System.Drawing.Size(278, 58);
             this.rch_address.TabIndex = 102;
