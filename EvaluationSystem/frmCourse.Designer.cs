@@ -56,7 +56,7 @@
             // 
             // PictureBox1
             // 
-            this.PictureBox1.Location = new System.Drawing.Point(283, 6);
+            this.PictureBox1.Location = new System.Drawing.Point(260, 9);
             this.PictureBox1.Name = "PictureBox1";
             this.PictureBox1.Size = new System.Drawing.Size(161, 95);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -156,7 +156,7 @@
             // 
             this.Label1.AutoSize = true;
             this.Label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label1.Location = new System.Drawing.Point(150, 9);
+            this.Label1.Location = new System.Drawing.Point(127, 9);
             this.Label1.Name = "Label1";
             this.Label1.Size = new System.Drawing.Size(127, 39);
             this.Label1.TabIndex = 28;
