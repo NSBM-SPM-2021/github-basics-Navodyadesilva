@@ -56,9 +56,9 @@
             // 
             // PictureBox1
             // 
-            this.PictureBox1.Location = new System.Drawing.Point(516, 12);
+            this.PictureBox1.Location = new System.Drawing.Point(498, 12);
             this.PictureBox1.Name = "PictureBox1";
-            this.PictureBox1.Size = new System.Drawing.Size(161, 95);
+            this.PictureBox1.Size = new System.Drawing.Size(179, 122);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.PictureBox1.TabIndex = 37;
             this.PictureBox1.TabStop = false;
@@ -137,7 +137,7 @@
             // txtCourse
             // 
             this.txtCourse.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCourse.Location = new System.Drawing.Point(98, 114);
+            this.txtCourse.Location = new System.Drawing.Point(128, 114);
             this.txtCourse.Name = "txtCourse";
             this.txtCourse.Size = new System.Drawing.Size(323, 23);
             this.txtCourse.TabIndex = 30;
