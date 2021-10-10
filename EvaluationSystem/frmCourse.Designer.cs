@@ -137,9 +137,9 @@
             // txtCourse
             // 
             this.txtCourse.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCourse.Location = new System.Drawing.Point(114, 114);
+            this.txtCourse.Location = new System.Drawing.Point(98, 114);
             this.txtCourse.Name = "txtCourse";
-            this.txtCourse.Size = new System.Drawing.Size(286, 23);
+            this.txtCourse.Size = new System.Drawing.Size(323, 23);
             this.txtCourse.TabIndex = 30;
             // 
             // Label2
