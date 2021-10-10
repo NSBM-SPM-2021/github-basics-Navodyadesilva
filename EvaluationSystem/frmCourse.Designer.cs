@@ -56,7 +56,7 @@
             // 
             // PictureBox1
             // 
-            this.PictureBox1.Location = new System.Drawing.Point(498, 12);
+            this.PictureBox1.Location = new System.Drawing.Point(433, 12);
             this.PictureBox1.Name = "PictureBox1";
             this.PictureBox1.Size = new System.Drawing.Size(179, 122);
             this.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -166,7 +166,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(729, 494);
+            this.ClientSize = new System.Drawing.Size(638, 494);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.PictureBox1);
             this.Controls.Add(this.txtSearch);
