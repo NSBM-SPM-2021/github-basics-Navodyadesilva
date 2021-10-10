@@ -86,7 +86,7 @@
             // btnclose
             // 
             this.btnclose.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnclose.Location = new System.Drawing.Point(333, 153);
+            this.btnclose.Location = new System.Drawing.Point(354, 153);
             this.btnclose.Name = "btnclose";
             this.btnclose.Size = new System.Drawing.Size(67, 29);
             this.btnclose.TabIndex = 33;
@@ -97,7 +97,7 @@
             // btnnew
             // 
             this.btnnew.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnnew.Location = new System.Drawing.Point(260, 153);
+            this.btnnew.Location = new System.Drawing.Point(269, 153);
             this.btnnew.Name = "btnnew";
             this.btnnew.Size = new System.Drawing.Size(67, 29);
             this.btnnew.TabIndex = 34;
@@ -108,7 +108,7 @@
             // btnsave
             // 
             this.btnsave.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnsave.Location = new System.Drawing.Point(114, 153);
+            this.btnsave.Location = new System.Drawing.Point(98, 153);
             this.btnsave.Name = "btnsave";
             this.btnsave.Size = new System.Drawing.Size(67, 29);
             this.btnsave.TabIndex = 32;
