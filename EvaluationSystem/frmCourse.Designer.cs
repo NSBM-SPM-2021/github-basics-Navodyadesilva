@@ -130,7 +130,7 @@
             this.dtglist.Name = "dtglist";
             this.dtglist.RowHeadersVisible = false;
             this.dtglist.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dtglist.Size = new System.Drawing.Size(431, 245);
+            this.dtglist.Size = new System.Drawing.Size(664, 245);
             this.dtglist.TabIndex = 31;
             this.dtglist.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtglist_CellClick);
             // 
